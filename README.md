@@ -1,4 +1,4 @@
-# matplotlib_styles_QD
+# My matplotlib styles
 A collection of my homemade matplotlib styles.
 
 Available styles are:
